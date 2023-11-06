@@ -6,6 +6,9 @@ h1 {
   color: teal;
   text-align: center;
 }
+a {
+  text-decoration: none;
+}
 .assign {
   display: flex;
   padding: 10px;
